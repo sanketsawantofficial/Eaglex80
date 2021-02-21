@@ -9,4 +9,4 @@
 - 📫 How to reach me: [Instagram - @eaglex_80](https://www.instagram.com/Eaglex_80/), [Twitter - @Eaglex_80](https://twitter.com/Eaglex_80)
 - ⚡ Fun fact: All I do.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eaglex80&layout=compact)](https://github.com/Eaglex80/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eaglex80&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/Eaglex80/github-readme-stats)
